@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://asche.io/superjp.html/sitemap.xml
+Sitemap: http://asche.io/gilajp.html/sitemap.xml
+Sitemap: http://asche.io/gojekpot.html/sitemap.xml
+Sitemap: http://asche.io/winstrike69.html/sitemap.xml
+Sitemap: http://asche.io/jagoan86.html/sitemap.xml
+Sitemap: http://asche.io/slotzeus.html/sitemap.xml
+Sitemap: http://asche.io/kaptenjackpot.html/sitemap.xml
+Sitemap: http://asche.io/boosterjp.html/sitemap.xml
+Sitemap: http://asche.io/kerajaanslot.html/sitemap.xml
+Sitemap: http://asche.io/pakong86.html/sitemap.xml
+Sitemap: http://asche.io/viral88.html/sitemap.xml
+Sitemap: http://asche.io/clan4d.html/sitemap.xml
+Sitemap: http://asche.io/dinamit4d.html/sitemap.xml
+Sitemap: http://asche.io/elang212.html/sitemap.xml
+Sitemap: http://asche.io/gori77.html/sitemap.xml
+Sitemap: http://asche.io/viral4d.html/sitemap.xml
+Sitemap: http://asche.io/playground88.html/sitemap.xml
